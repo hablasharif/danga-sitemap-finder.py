@@ -138,3 +138,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Create a link to the external URL
+url = "https://website-titles-and-h1-tag-checke.streamlit.app/"
+link_text = "VISIT THIS IF YOU WANT TO PULL WEBSITE  ALL  TITLES AND H1 TAG TITLE THEN VISIT THIS"
+
+# Display the link
+st.markdown(f"[{link_text}]({url})")
