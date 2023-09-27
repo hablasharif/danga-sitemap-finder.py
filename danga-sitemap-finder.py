@@ -95,7 +95,8 @@ def filter_urls(url_list):
         "/blog-tag/",
         "/blog-category/",
         "/archive/",
-        "/sitemap-"
+        "/sitemap-",
+        "/author/",
         
         
         
