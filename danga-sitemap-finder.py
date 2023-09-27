@@ -98,6 +98,11 @@ def filter_urls(url_list):
         "/sitemap-",
         "/author/",
         "/writer/",
+        "/director_tv/",
+        "/cast_tv/",
+        ".xml",
+        ".jpg",
+       
         
         
         
