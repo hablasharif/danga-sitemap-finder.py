@@ -97,6 +97,7 @@ def filter_urls(url_list):
         "/archive/",
         "/sitemap-",
         "/author/",
+        "/writer/",
         
         
         
