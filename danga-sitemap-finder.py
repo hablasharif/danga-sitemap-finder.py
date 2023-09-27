@@ -89,6 +89,16 @@ def filter_urls(url_list):
         "/episode-date/",
         "/category/",
         "/lang/",
+        "/year/",
+        "/index/",
+        "/network/",
+        "/blog-tag/",
+        "/blog-category/",
+        "/archive/",
+        "/sitemap-"
+        
+        
+        
     ]
 
     # Extensions to filter out
