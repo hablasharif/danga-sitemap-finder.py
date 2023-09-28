@@ -103,6 +103,7 @@ def filter_urls(url_list):
         ".xml",
         ".jpg",
         ".png",
+        ".webp"
     ]
 
     # Extensions to filter out
