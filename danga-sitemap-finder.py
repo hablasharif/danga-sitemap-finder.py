@@ -69,7 +69,7 @@ def filter_urls(url_list):
     filtered_urls = []
     removed_urls = []
 
-filter_patterns = [
+       filter_patterns = [
     "/casts/",
     "/cast/",
     "/directors/",
