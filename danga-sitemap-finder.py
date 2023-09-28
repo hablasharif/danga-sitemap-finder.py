@@ -110,6 +110,7 @@ def filter_urls(url_list):
         "/site-disclaimer/",
         "/about-us/",
         "/dmca/",
+        "/disclaimer/",
         "/report-broken-links/",
         "/contact-us/",
         ".xml",
