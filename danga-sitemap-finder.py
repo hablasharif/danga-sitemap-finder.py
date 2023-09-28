@@ -101,7 +101,8 @@ def filter_urls(url_list):
         "/director_tv/",
         "/cast_tv/",
         ".xml",
-        ".jpg"
+        ".jpg",
+        ".png",
     ]
 
     # Extensions to filter out
