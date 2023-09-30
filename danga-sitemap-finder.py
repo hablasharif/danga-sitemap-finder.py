@@ -12,7 +12,7 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 @st.cache
 def extract_sitemap_url(domain):
     sitemap_urls = [
-        urljoin(domain, "sitemap.xml"),
+        urljoin(domain, "sitemap_index.xml"),
         urljoin(domain, "sitemap_index.xml"),
         urljoin(domain, "sitemap_gn.xml")
     ]
